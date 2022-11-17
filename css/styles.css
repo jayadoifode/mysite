@@ -1,0 +1,114 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family:  Helvetica, sans-serif;
+    font-weight: 700px;
+}
+
+
+h1{
+    color: #66BFBF;
+    font-family:'Dancing Script', cursive;
+    font-size: 4rem;
+    font-weight: normal;
+}
+h2{
+    color:#66BFBF;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h3{
+    color:#66BFBF;
+    font-family: 'Courier New', Courier, monospace;
+  
+}
+.div1{
+    background-color:#EAF6F6; 
+    padding-top:100px; 
+    }
+.cloud1{
+    position:absolute;
+    right:1000px;
+    bottom:300px;
+ }
+.cloud2{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
+.div2{
+    margin:70px auto 70px auto;
+    font-size: large;
+}
+span{
+    color:red;
+}
+hr{
+    width:5%;
+    border:dotted rgb(0 0 0) 6px;
+    border-bottom: none;
+    margin: 80px auto;
+
+}
+.div3{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+}
+.computer{
+    width:20%;
+    float:left;
+    margin-right: 30px;
+}
+.chillies{
+    width:20%;
+    float:right;
+    margin-left: 30px;
+}
+#id1{
+    margin: 50px auto 20px auto;
+}
+p{
+    line-height:2;
+ }
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    margin-top: 100px auto;
+ }
+ 
+.jaya{
+    color:#8bd1d1;
+}
+.copyright{
+    color: rgb(216, 199, 224);
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+    color: #d63364;
+}
+.btn{
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top,blue,skyblue);
+    background-image: -moz-linear-gradient(top,blue,skyblue);
+    background-image: -ms-linear-gradient (top,blue,skyblue);
+    background-image: -o-linear-gradient (top,blue,skyblue);
+    background-image: linear-gradient (to bottom,blue,skyblue);
+    -webkit-border-radius:8;
+    -moz-border-radius:8;
+    border-radius:8px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    padding: 5px 30px 5px 30px;
+    text-decoration: none; 
+    margin: 100px auto;
+
+
+}
